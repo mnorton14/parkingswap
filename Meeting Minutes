@@ -14,7 +14,7 @@ task_progress: [ # All group members must be included here even if they haven't 
   {ubit: <mjkall>, progress: Disscussed as a group the goal of ParkingSwap and brianstormed ideas on how to implement necessary features of the app},
   {ubit: <xenalin>, progress: Disscussed as a group the goal of ParkingSwap and brianstormed ideas on how to implement necessary features of the app},
   {ubit: <fengyuwu>, progress: Disscussed as a group the goal of ParkingSwap and brianstormed ideas on how to implement necessary features of the app},
-  {ubit: <tjquinn>, progress: Disscussed as a group the goal of ParkingSwap and brianstormed ideas on how to implement necessary features of the app}
+  {ubit: <tjquinn>, progress: Disscussed as a group the goal of ParkingSwap and brianstormed ideas on how to implement necessary features of the app, Record Minutes}
   ]
 issues: [ # Post any issues here. Issues that cannot be addressed by the group should especially be included
   {ubit: <ubit2>, issue: Needs to contact customer to clarify requirements that have not yet been dicussed.},
