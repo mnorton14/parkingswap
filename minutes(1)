@@ -17,8 +17,8 @@ task_progress: [ # All group members must be included here even if they haven't 
   {ubit: <tjquinn>, progress: Disscussed as a group the goal of ParkingSwap and brianstormed ideas on how to implement necessary features of the app, Record Minutes}
   ]
 issues: [ # Post any issues here. Issues that cannot be addressed by the group should especially be included
-  {ubit: <ubit2>, issue: Needs to contact customer to clarify requirements that have not yet been dicussed.},
-  {ubit: <ubit6>, issue: After discussing with the TA it turns out that this problem is NP-Complete.}
+  {ubit: <ubit2>, issue: },
+  {ubit: <ubit6>, issue: }
   ]
 Notes:  | # Anything covered in the meeting that doesn't fit elsewhere.
   -By the end of first meeting, a few basic sketches of the UI were drawn up on the white board, but nothing concrete was established.  
