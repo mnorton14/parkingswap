@@ -20,6 +20,11 @@ public class FindActivity extends AppCompatActivity{
 
         startActivity(new Intent("Lot_class.Lot"));
     }
+
+    public void onButtonClickMap(View v){
+
+        startActivity(new Intent("Map_class.Map"));
+    }
 }
 
 
