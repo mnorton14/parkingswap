@@ -20,7 +20,7 @@
         android:layout_marginLeft="50dp"
         android:textColor="@android:color/background_light"
         android:background="?attr/colorPrimary"
-        android:onClick="onButtonClickMap" />
+        android:onClick="onButtonClickListener" />
 
     <Button
         android:layout_width="wrap_content"
